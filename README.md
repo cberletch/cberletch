@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Cole</h1>
 
-I'm a senior data engineer who likes to learn new things and put them on my github sometimes. Most of the projects here are incomplete as I usually bounce to new things before completing them. Outside of coding, I'm an amateur golfer and a huge fan of the Pittsburgh Steelers.
+I'm a senior data engineer who likes to learn new things and put them on my github sometimes. Most of the projects here are incomplete as I usually bounce to new things before completing them. I have rich experience in PySpark and working with big/streaming data as a professional. Outside of coding, I'm an amateur golfer and a huge fan of the Pittsburgh Steelers.
 
 - 📫 you can reach me at **coleberletch@gmail.com**
 
